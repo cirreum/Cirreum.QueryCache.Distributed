@@ -6,8 +6,8 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Cirreum.Core" Version="1.0.36" />
-		<PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="10.0.1" />
+		<PackageReference Include="Cirreum.Core" Version="1.0.37" />
+		<PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="10.0.2" />
 	</ItemGroup>
 
 	<ItemGroup>
